@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there         :electron: 
 
-<!--
-**ccezar25/ccezar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Physics.
+- 🌱 I’m currently learning Physics, Mathematics, Software Engineering, Computational Physics.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything related to the subjects above and related areas.
+- 📫 How to reach me: 
+  - ccezarx@gmail.com (email)
+  - Kaiser#8999 (Discord)
+- :earth_americas: Portuguese, Spanish and English speaker.                     
+- ⚡ Fun fact: WoW Player (For the Horde!)
+- :triangular_flag_on_post: Lorem Ipsum
 -->
