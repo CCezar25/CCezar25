@@ -1,4 +1,4 @@
-### Hi there         :electron: 
+### Hi there         💻
 
 - 🔭 I’m currently working on Mathematics.
 - 🌱 I’m currently learning Mathematics, Physics, Software Engineering, Computational Mathematics.
