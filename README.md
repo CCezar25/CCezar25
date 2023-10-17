@@ -1,7 +1,7 @@
 ### Hi there         :electron: 
 
-- 🔭 I’m currently working on Physics.
-- 🌱 I’m currently learning Physics, Mathematics, Software Engineering, Computational Physics.
+- 🔭 I’m currently working on Mathematics.
+- 🌱 I’m currently learning Mathematics, Physics, Software Engineering, Computational Mathematics.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to the subjects above and related areas.
