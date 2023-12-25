@@ -6,7 +6,7 @@
 - 💬 Ask me about anything related to the subjects above and related areas.
 - 📫 How to reach me: 
   - ccezarx@gmail.com (email)
-  - Kaiser#8999 (Discord)
+  - kaiser235 (Discord)
 - :earth_americas: Portuguese, Spanish and English speaker.                     
 - ⚡ Fun fact: WoW Player (For the Horde!)
 - :triangular_flag_on_post: Lorem Ipsum
