@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Mathematics.
 - 🌱 I’m currently learning Mathematics, Physics, Software Engineering, Computational Mathematics.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on these topics.
 - 💬 Ask me about anything related to the subjects above and related areas.
 - 📫 How to reach me: 
   - ccezarx@gmail.com (email)
