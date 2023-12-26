@@ -11,5 +11,4 @@
 - ⚡ Fun fact: WoW Player (For the Horde!)
 - :triangular_flag_on_post:  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccezar25&size_weight=0.5&count_weight=0.5)
- // [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccezar25)](https://github.com/ccezar25/github-readme-stats)
  
