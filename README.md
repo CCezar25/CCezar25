@@ -10,4 +10,4 @@
 - :earth_americas: Portuguese, Spanish and English speaker.                     
 - ⚡ Fun fact: WoW Player (For the Horde!)
 - :triangular_flag_on_post:  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ccezar25=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccezar25)](https://github.com/ccezar25/github-readme-stats)
