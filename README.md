@@ -10,5 +10,5 @@
 - :earth_americas: Portuguese, Spanish and English speaker.                     
 - ⚡ Fun fact: WoW Player (For the Horde!)
 - :triangular_flag_on_post:  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccezarc25&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccezar25&layout=compact)
  
